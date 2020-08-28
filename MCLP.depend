@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1598537078 source:f:\mclp\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<cmath>
+	<time.h>
+	<assert.h>
+	<fstream>
+	<ctime>
+	<string>
+	<vector>
+
